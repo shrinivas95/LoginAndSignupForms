@@ -1,0 +1,17 @@
+{
+  "name": "login-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Shrinivas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express.js": "^1.0.0",
+    "knex": "^2.4.2",
+    "pg": "^8.11.0"
+  }
+}
